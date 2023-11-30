@@ -1,0 +1,17 @@
+LISTA DE TIMES CADASTRADOS:
+
+Time 1:
+Nome: corintia
+Ano de fundacao: 1910
+Liga: brasileirao
+
+Time 2:
+Nome: mengudo
+Ano de fundacao: 1895
+Liga: brasileirao
+
+Time 3:
+Nome: galudo
+Ano de fundacao: 1913
+Liga: brasileirao
+
